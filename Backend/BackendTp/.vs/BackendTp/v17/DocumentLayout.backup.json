@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\TpProgII\\Backend\\BackendTp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B11A3E-AD18-4071-BDF4-2E5342069466}|BackendTp\\BackendTp.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\tpprogii\\backend\\backendtp\\backendtp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B11A3E-AD18-4071-BDF4-2E5342069466}|BackendTp\\BackendTp.csproj|solutionrelative:backendtp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\TpProgII\\Backend\\BackendTp\\BackendTp\\Class1.cs",
+              "RelativeDocumentMoniker": "BackendTp\\Class1.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\TpProgII\\Backend\\BackendTp\\BackendTp\\Class1.cs",
+              "RelativeToolTip": "BackendTp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:17:18.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
