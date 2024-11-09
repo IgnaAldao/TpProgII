@@ -1,0 +1,15 @@
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\bin\Debug\net8.0\BackendTp.deps.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\bin\Debug\net8.0\BackendTp.runtimeconfig.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\bin\Debug\net8.0\BackendTp.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\bin\Debug\net8.0\BackendTp.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.csproj.AssemblyReference.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.AssemblyInfoInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.AssemblyInfo.cs
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.csproj.CoreCompileInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.sourcelink.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\refint\BackendTp.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\BackendTp.genruntimeconfig.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\TpProgII\Backend\BackendTp\BackendTp\obj\Debug\net8.0\ref\BackendTp.dll

@@ -1,0 +1,142 @@
+body{
+    
+  font-family: "coolvetica";
+  font-weight: 400;
+  font-style: normal;
+  background-color: #3d405b;
+}
+
+#loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f1de;
+}
+
+#mainContent {
+    display: none;
+}
+
+#navbar {
+  display: none;
+}
+
+#botonFiltrar{
+  background-color: #f4f1de; 
+  color: #3d405b; 
+}
+
+#img-usuario{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+#nav-inicio{
+  background-color: #3d405b;
+  color: #f4f1de;
+  display: block;
+  height: 55px;
+  padding-left: 200px;
+  font-size:xx-large;
+}
+
+#loginButton{
+  background-color: #3d405b;
+  color: white;
+  border-radius: 10px;
+  inline-size: 185px;
+  block-size: 35px;
+  border: none;
+  transition: opacity 0.3s;
+}
+
+#loginButton:hover{
+  opacity: 0.8;
+}
+
+#logoutButton{
+  background-color: #f4f1de;
+  color: #3d405b;
+  border-radius: 10px;
+  inline-size: 185px;
+  block-size: 35px;
+  border: none;
+  transition: opacity 0.3s;
+}
+
+#form-cliente{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 35%;
+  margin-top: 50px;
+  margin-left: 33%;
+}
+
+input {
+  padding: 5px; 
+  border-radius: 5px; 
+  border: none;
+  background-color: #f4f1de;
+  color: #3d405b;
+}
+
+label{
+  color: #f4f1de;
+}
+
+#updateClienteButton{
+  border-radius: 10px;
+  color: #3d405b;
+  background-color: #f4f1de;
+  border: none;
+  transition: opacity 0.3s;
+  inline-size: 185px;
+  block-size: 35px;
+  margin-left: 30%;
+}
+
+#updateClienteButton:hover{
+  opacity: 0.8;
+}
+
+.dropdown-menu{
+  background-color: #f4f1de;
+  color: #3d405b;
+}
+
+#alerta{
+  height: 50px;
+  background-color: #f4f1de;
+  display: none;
+}
+
+table{
+  text-align: center;
+}
+
+.table {
+  background-color: #f4f1de; 
+  color: #3d405b;
+  border-color: #f4f1de;
+}
+
+#tabla-funciones tbody tr:hover {
+  background-color: #72787e; 
+  cursor: pointer; 
+}
+
+#dropdown-peliculas{
+  background-color: #f4f1de;
+}
+
+
+@font-face{
+  font-family: "coolvetica";
+  src: url(../fonts/coolveticarg.otf);
+  font-weight: normal;
+  font-style: normal;
+}

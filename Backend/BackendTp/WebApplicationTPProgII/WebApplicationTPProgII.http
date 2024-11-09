@@ -1,0 +1,6 @@
+@WebApplicationTPProgII_HostAddress = http://localhost:5199
+
+GET {{WebApplicationTPProgII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
