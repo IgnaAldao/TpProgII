@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Usuario</title>
+    <title>CONSULTAS</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
 </head>
@@ -20,14 +20,15 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link" href="../html/pelicula.html" style="color: #f4f1de;">PELICULAS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./pelicula.html"
+                                style="color: #f4f1de;">PELICULAS</a></li>
                         <li class="nav-item"><a class="nav-link" href="./compra.html" style="color: #f4f1de;">VENTAS</a></li>
-                        <li class="nav-item"><a class="nav-link" href="./consultas.html" style="color: #f4f1de;">CONSULTAS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#" style="color: #f4f1de;">CONSULTAS</a></li>
                     </ul>
                     <ul class="navbar-nav ms-auto">
                         <button id="logoutButton" class="mt-2">Cerrar Sesión</button>
                         <li class="nav-item">
-                            <a class="nav-link" href="./html/usuario.html">
+                            <a class="nav-link" href="../html/usuario.html">
                                 <img src="../imgs/usuarioimg.jpg" alt="Usuario" class="img-fluid" id="img-usuario">
                             </a>
                         </li>
@@ -37,30 +38,29 @@
             </div>
         </nav>
     </header>
-
-    <main>
-        <div id="clienteForm" class="container">
-            <form id="form-cliente">
-                <label style="margin-bottom: -10px;" for="nombre">NOMBRE:</label>
-                <input type="text" id="nombre" name="nombre" required>
-    
-                <label style="margin-bottom: -10px;" for="apellido">APELLIDO:</label>
-                <input type="text" id="apellido" name="apellido" required>
-    
-                <label style="margin-bottom: -10px;" for="email">EMAIL:</label>
-                <input type="email" id="email" name="email" required>
-    
-                <label style="margin-bottom: -10px;" for="telefono">TELEFONO:</label>
-                <input type="text" id="telefono" name="telefono" required>
-    
-                <button id="updateClienteButton" type="button" class="mt-5">Guardar Cambios</button>
-            </form>
+    <main class="container">    
+        <div class="mt-5 text-center">
+            <button id="consulta1Btn" class="btn-consulta mb-2">Ver Consulta 1</button>
+            <button id="consulta2Btn" class="btn-consulta">Ver Consulta 2</button>
+            <button id="consulta3Btn" class="btn-consulta">Ver Consulta 3</button>
+            <button id="consulta4Btn" class="btn-consulta">Ver Consulta 4</button>
+            <button id="consulta5Btn" class="btn-consulta">Ver Consulta 5</button>
+            <button id="consulta6Btn" class="btn-consulta">Ver Consulta 6</button>
+            <button id="consulta7Btn" class="btn-consulta">Ver Consulta 7</button>
+            <button id="consulta8Btn" class="btn-consulta">Ver Consulta 8</button>
+            <button id="consulta9Btn" class="btn-consulta">Ver Consulta 9</button>
         </div>
+        <div id="resultadoConsulta" class="mt-4">
+            <!-- Aquí se mostrará el resultado de la consulta -->
+            <table id="resultadoTabla" class="table table-dark table-striped table-hover">
+                <!-- La tabla se llenará dinámicamente -->
+            </table>
+        </div>
+        
+        
     </main>
-    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../js/scriptUsuario.js"></script>
-
+    <script src="../js/scriptConsultas.js"></script>
     <footer class="mt-5 p-4 text-center" style="background-color: #282934; color: #f4f1de;">
         <p>Proyecto desarrollado por:</p>
         <ul style="list-style: none; padding: 0;">

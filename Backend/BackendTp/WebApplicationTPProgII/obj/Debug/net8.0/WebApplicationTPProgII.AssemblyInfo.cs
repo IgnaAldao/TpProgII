@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationTPProgII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d855f56af46b311e6a60167b1096bed492d3506")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62dd76b2f5cf81d75bfdb8bc57830ae8e459e890")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationTPProgII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationTPProgII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

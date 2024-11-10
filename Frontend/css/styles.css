@@ -118,12 +118,6 @@ table{
   text-align: center;
 }
 
-.table {
-  background-color: #f4f1de; 
-  color: #3d405b;
-  border-color: #f4f1de;
-}
-
 #tabla-funciones tbody tr:hover {
   background-color: #72787e; 
   cursor: pointer; 
@@ -133,6 +127,50 @@ table{
   background-color: #f4f1de;
 }
 
+.table th {
+  background-color: #3d405b; /* Fondo de los encabezados */
+  color: #f4f1de; /* Color del texto del encabezado */
+}
+.table td {
+  background-color: #595c75; /* Fondo de las celdas */
+  color: #f4f1de; /* Color del texto */
+}
+.table-hover tbody tr:hover {
+  background-color: #4e5067; /* Color cuando el ratón está encima */
+}
+
+#resultadoConsulta .table {
+  border: none !important;
+}
+#resultadoConsulta .table th,
+#resultadoConsulta .table td {
+  border: none !important;
+}
+
+.consulta-container {
+  background-color: #252a34;  /* Cambia este color según la paleta de colores que prefieras */
+  padding: 20px;
+  border-radius: 8px;
+  color: #f4f1de;  /* Cambia el color del texto para que contraste con el fondo */
+  margin-bottom: 20px;
+}
+
+.consulta-container pre {
+  background-color: #3d405b;  /* Fondo para el código SQL */
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;  /* Permite el desplazamiento horizontal si el contenido es muy largo */
+}
+
+.btn-consulta{
+  background-color: #f4f1de;
+  color: #3d405b;
+  border-radius: 10px;
+  inline-size: 185px;
+  block-size: 35px;
+  border: none;
+  transition: opacity 0.3s;
+}
 
 @font-face{
   font-family: "coolvetica";

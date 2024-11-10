@@ -63,6 +63,26 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApplicationTPProgII.Controllers.ConsultaController",
+    "Method": "EjecutarConsulta1",
+    "RelativePath": "api/Consulta/consulta1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationTPProgII.Controllers.ConsultaController",
+    "Method": "EjecutarConsulta2",
+    "RelativePath": "api/Consulta/consulta2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplicationTPProgII.Controllers.FuncionController",
     "Method": "GetPromociones",
     "RelativePath": "api/Funcion",
