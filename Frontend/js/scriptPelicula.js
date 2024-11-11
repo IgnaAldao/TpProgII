@@ -46,7 +46,7 @@ function cargarGeneros() {
             const generoSelect = document.getElementById('genero');
             generos.forEach(genero => {
                 const option = document.createElement('option');
-                option.value = genero.idGenero;  // Aquí usa el ID del género
+                option.value = genero.descripcion;  // Aquí usa el ID del género
                 option.textContent = genero.descripcion;
                 generoSelect.appendChild(option);
             });

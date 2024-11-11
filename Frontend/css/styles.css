@@ -126,18 +126,18 @@ table{
 #dropdown-peliculas{
   background-color: #f4f1de;
 }
-
+/*
 .table th {
-  background-color: #3d405b; /* Fondo de los encabezados */
-  color: #f4f1de; /* Color del texto del encabezado */
+  background-color: #3d405b; 
+  color: #f4f1de;
 }
 .table td {
-  background-color: #595c75; /* Fondo de las celdas */
-  color: #f4f1de; /* Color del texto */
+  background-color: #595c75; 
+  color: #f4f1de; 
 }
 .table-hover tbody tr:hover {
-  background-color: #4e5067; /* Color cuando el ratón está encima */
-}
+  background-color: #4e5067; 
+}*/
 
 #resultadoConsulta .table {
   border: none !important;

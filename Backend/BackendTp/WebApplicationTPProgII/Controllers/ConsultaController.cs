@@ -66,7 +66,6 @@ namespace WebApplicationTPProgII.Controllers
                     DataTable resultado = new DataTable();
                     adapter.Fill(resultado);
 
-                    // Convertir DataTable a lista de diccionarios para facilitar la conversión a JSON
                     var resultadoLista = new List<Dictionary<string, object>>();
                     foreach (DataRow row in resultado.Rows)
                     {
